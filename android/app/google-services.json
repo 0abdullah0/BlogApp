@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525363467559",
+    "firebase_url": "https://fbblog-ad4df.firebaseio.com",
+    "project_id": "fbblog-ad4df",
+    "storage_bucket": "fbblog-ad4df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525363467559:android:a1ccea1dbce18e05fac502",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525363467559-9hfn0ltg9hpcf8pblhf6fq2gt3c376ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IiyUZ9J2LYnLLb-aU8ZUP_6jbYHdA0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525363467559-9hfn0ltg9hpcf8pblhf6fq2gt3c376ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
